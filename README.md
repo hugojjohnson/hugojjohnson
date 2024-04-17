@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Hugo, and I'm a curious and passionate student studying Software Engineering at the University of Sydney. I started coding because I enjoyed the problem solving, but when I realised I could build things to help make my life easier, I couldn't wait to try and build them.
+
+You can find out more about me on my [website](https://hugojjohnson.github.io/). See you there!
+
 <!--
 **hugojjohnson/hugojjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
